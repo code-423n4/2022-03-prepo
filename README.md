@@ -7,8 +7,6 @@
 - Starts March 17, 2022 00:00 UTC
 - Ends March 19, 2022 23:59 UTC
 
-This repo will be made public before the start of the contest. (C4 delete this line when made public)
-
 # Protocol Overview
 prePO is a decentralized trading platform allowing anyone to speculate on the valuation of any pre-IPO company or pre-token crypto project.
 
