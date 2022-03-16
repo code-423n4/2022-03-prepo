@@ -102,3 +102,14 @@ dist
 
 # TernJS port file
 .tern-port
+
+.vscode/
+artifacts/
+build/
+cache/
+typechain/
+.DS_STORE
+deployments/localhost
+deployments/goerli
+.openzeppelin/unknown-*.json
+.openzeppelin/goerli.json
