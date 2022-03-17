@@ -21,7 +21,7 @@ Recommended reading:
 - [Blog: Augur market economics (particularly the ‘Scalar markets’ section)](https://medium.com/veil-blog/a-guide-to-augur-market-economics-16c66d956b6c)
 
 Recommended viewing:
-- [prePO Documentation and Contract Walkthrough](https://candle-orbit-4fb.notion.site/prePO-C4-Contest-Video-Walkthrough-2387fc0f305746c091291bcdc7b9437f)
+- [prePO Documentation and Contract Video Walkthrough](https://candle-orbit-4fb.notion.site/prePO-C4-Contest-Video-Walkthrough-2387fc0f305746c091291bcdc7b9437f)
 
 # Smart Contracts
 All the contracts in this section are to be reviewed. Any contracts not in this list are to be ignored for this contest.  
