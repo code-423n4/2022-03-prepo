@@ -16,6 +16,7 @@ Recommended reading:
 
 - [Blog: Introducing prePO](https://prepo.io/blog/introducing-prepo/)
 - [Blog: How does prePO Work?](https://prepo.io/blog/how-does-prepo-work/)
+- [Video: Docs and Contracts Walkthrough](https://candle-orbit-4fb.notion.site/prePO-C4-Contest-Video-Walkthrough-2387fc0f305746c091291bcdc7b9437f)
 - [prePO Documentation](https://docs.prepo.io/)
 - [prePO Developer Docs](https://docs.prepo.io/developer/core-contracts) (contains architecture diagrams, sequence diagrams, and contract documentation)
 - [Blog: Augur market economics (particularly the ‘Scalar markets’ section)](https://medium.com/veil-blog/a-guide-to-augur-market-economics-16c66d956b6c)
